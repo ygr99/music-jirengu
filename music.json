@@ -1,19 +1,23 @@
-[{
+[
+{
   "src": "http://cloud.hunger-valley.com/music/玫瑰.mp3",
   "title": "玫瑰0",
   "auther": "贰佰",
   "img": "http://cloud.hunger-valley.com/17-9-22/28212907.jpg"
-}, {
+}
+, {
   "src": "http://cloud.hunger-valley.com/music/ifyou.mp3",
   "title": "IF YOU1",
   "auther": "Big Bang",
   "img": "http://cloud.hunger-valley.com/17-9-22/87786461.jpg"
-}, {
+}
+, {
   "src": "https://sharefs.ali.kugou.com/202201141342/88926905d9b56f6b9a037705d83059bd/KGTX/CLTX001/9c29ccf742c1a8f8a8171dd3305b428b.mp3",
   "title": "后来",
   "auther": "刘诺英",
   "img": "https://img2.baidu.com/it/u=1211989076,3982167047&fm=26&fmt=auto"
-}, {
+}
+, {
   "src": "https://sharefs.ali.kugou.com/202201141412/f42ec42a688d458af58fb3bd137602c7/KGTX/CLTX001/967235335565cbaba507c50bf9e06033.mp3",
   "title": "这是我一生中最勇敢的瞬间",
   "auther": "棱镜",
@@ -37,5 +41,4 @@
   "auther": "咖啡因乐队",
   "img": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwsing.bssdl.kugou.com%2F3d56caf59f190e54516505f2be57ce55.jpg&refer=http%3A%2F%2Fwsing.bssdl.kugou.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1644734710&t=976717e2f3bb1cf45670486995bffd3f"
 }
-
 ]
